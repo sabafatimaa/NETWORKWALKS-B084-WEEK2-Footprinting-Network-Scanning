@@ -27,7 +27,7 @@ All activities were performed on authorized targets or my own local network.
 
 The complete penetration testing report is available below:
 
-[View / Download Full Report](https://raw.githubusercontent.com/bismamirza73-tech/networkwalks-B082-Week2-CyberSecurity_PenetrationTesting/main/W2-PM-FINAL%20-%20Bisma%20Report%20v2.pdf)
+[View / Download Full Report](Final Report Week2.pdf)
 
 ---
 
