@@ -174,10 +174,10 @@ theHarvester was used to collect information about `microsoft.com` from public s
 
 ### Screenshot
 
-![Harvester](Images/Harvester.png)
-![Harvester](Images/Email.png)
-![Harvester](Images/HarvesterIP.png)
-![Harvester](Images/ASN.png)
+![Harvester](Images/Harvester.bmg)
+![Harvester](Images/Email.bmg)
+![Harvester](Images/HarvesterIP.bmg)
+![Harvester](Images/ASN.bmg)
 
 ---
 
