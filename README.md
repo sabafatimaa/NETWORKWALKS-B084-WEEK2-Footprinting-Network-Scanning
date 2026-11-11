@@ -81,17 +81,18 @@ WHOIS was used to collect domain registration information such as registration d
 
 ### Screenshot
 
-![Zenmap](ZenMap.png)
+![WHOIS](Images/whois.png)
+
 ---
 
 ## 4.1.2 WhatWeb
 
-Whatweb exposes the exact software and versions (here Wordpress 7.0.4 and WP Download
-Manager 3.3.58).
+Whatweb exposes the exact software and versions (here Wordpress 7.1.4 and Http server Apache.
 
 ### Screenshot
 
-![Zenmap](ZenMap.png)
+![WHATWEB](Images/whatweb.png)
+
 ---
 
 ## 4.1.3 Nslookup
@@ -100,7 +101,8 @@ nslookup turns a domain name into its real IP address (192.232.216.135).
 
 ### Screenshot
 
-![Zenmap](ZenMap.png)
+![NSLOOKUP](Images/nslookup.png)
+
 ---
 
 ## 4.1.4 Curl-I
@@ -110,7 +112,8 @@ nslookup turns a domain name into its real IP address (192.232.216.135).
 
 ### Screenshot
 
-![Zenmap](ZenMap.png)
+![CURL](Images/curl.png)
+
 ---
 
 ## 4.1.5 Wafw00f
@@ -119,7 +122,8 @@ nslookup turns a domain name into its real IP address (192.232.216.135).
 
 ### Screenshot
 
-![Zenmap](ZenMap.png)
+![WAFWOOF](Images/wafwoof.png)
+
 ---
 
 ## 4.1.6 DNSRecon
@@ -132,7 +136,8 @@ nslookup turns a domain name into its real IP address (192.232.216.135).
 
 ### Screenshot
 
-![Zenmap](ZenMap.png)
+![DNSRECON](Images/dnsrecon.png)
+
 ---
 
 # 4.3 theHarvester Footprinting
@@ -146,12 +151,13 @@ theHarvester was used to collect information about `microsoft.com` from public s
 | Type | Count |
 |------|------:|
 | Emails | 0 |
-| Subdomain | 8 |
+| Hosts | 0 |
 | IPs | 0 |
 
 ### Screenshot
 
-![Zenmap](ZenMap.png)
+![Harvester](Images/theharvestbaidu.png)
+
 ---
 
 ## Task 2: All Sources
@@ -168,7 +174,11 @@ theHarvester was used to collect information about `microsoft.com` from public s
 
 ### Screenshot
 
-![Zenmap](ZenMap.png)
+![Harvester](Images/Harvester.png)
+![Harvester](Images/Email.png)
+![Harvester](Images/HarvesterIP.png)
+![Harvester](Images/ASN.png)
+
 ---
 
 # 4.4 Zenmap Network Scanning
@@ -193,7 +203,8 @@ Mac terminal was used to identify the local network configuration.
 
 ### Screenshot
 
-![Zenmap](ZenMap.png)
+![Zenmap](Images/ZenMap.png)
+
 ---
 
 ## Findings
