@@ -27,7 +27,7 @@ All activities were performed on authorized targets or my own local network.
 
 The complete penetration testing report is available below:
 
-[View Full Report](Final Report Week2.pdf)
+[View Full Report](Final_Report_Week2.pdf)
 
 ---
 
