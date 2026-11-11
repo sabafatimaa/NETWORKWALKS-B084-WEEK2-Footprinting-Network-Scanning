@@ -174,10 +174,10 @@ theHarvester was used to collect information about `microsoft.com` from public s
 
 ### Screenshot
 
-![Harvester](Images/Harvester.bmg)
-![Harvester](Images/Email.bmg)
-![Harvester](Images/HarvesterIP.bmg)
-![Harvester](Images/ASN.bmg)
+![Harvester](Images/Harvester.png)
+![Harvester](Images/Email.png)
+![Harvester](Images/HarvesterIP.png)
+![Harvester](Images/ASN.png)
 
 ---
 
@@ -234,7 +234,7 @@ Based on the information collected during the footprinting and network scanning 
 | 3 | HTTP technical information exposed | Curl returned HTTP response headers and exposed `/wp-json/` | May assist technology fingerprinting and further enumeration | Low |
 | 4 | WAF technology identifiable | Wafw00f identified ModSecurity (SpiderLabs) | Reveals information about the web application's security architecture | Low |
 | 5 | DNS infrastructure information exposed | DNSRecon identified DNS, mail and service-related records | DNS information can help build a broader infrastructure profile | Medium |
-| 6 | Multiple live hosts visible on local network | Zenmap identified four live hosts in the example network | Unknown or unauthorized devices may potentially be present on a network | Medium |
+| 6 | Multiple live hosts visible on local network | Zenmap identified nine live hosts in the example network | Unknown or unauthorized devices may potentially be present on a network | Medium |
 
 > The risks above are observations from the footprinting and scanning exercises, not confirmed vulnerabilities. No exploitation or vulnerability validation was performed.
 
