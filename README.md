@@ -166,11 +166,11 @@ theHarvester was used to collect information about `microsoft.com` from public s
 
 | Type | Count |
 |------|------:|
-| Email | 0 |
-| Subdomain | 1422 |
-| IPs | 38 |
-| ASNs | 8 |
-| Interesting URLs | 4 |
+| Email | 3 |
+| Hosts | 9490 |
+| IPs | 151 |
+| ASNs | 7 |
+| Interesting URLs | 10 |
 
 ### Screenshot
 
