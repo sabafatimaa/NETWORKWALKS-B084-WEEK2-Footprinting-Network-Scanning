@@ -79,6 +79,9 @@ Each tool was used to collect a different type of information about the target.
 
 WHOIS was used to collect domain registration information such as registration details, dates, and name servers.
 
+### Screenshot
+
+![Zenmap](ZenMap.png)
 ---
 
 ## 4.1.2 WhatWeb
@@ -86,12 +89,18 @@ WHOIS was used to collect domain registration information such as registration d
 Whatweb exposes the exact software and versions (here Wordpress 7.0.4 and WP Download
 Manager 3.3.58).
 
+### Screenshot
+
+![Zenmap](ZenMap.png)
 ---
 
 ## 4.1.3 Nslookup
 
 nslookup turns a domain name into its real IP address (192.232.216.135).
 
+### Screenshot
+
+![Zenmap](ZenMap.png)
 ---
 
 ## 4.1.4 Curl-I
@@ -99,12 +108,18 @@ nslookup turns a domain name into its real IP address (192.232.216.135).
 - HTTP Headers revealed server information
 - WordPress REST API `/wp-json/` endpoint exposed
 
+### Screenshot
+
+![Zenmap](ZenMap.png)
 ---
 
 ## 4.1.5 Wafw00f
 
 **WAF Detected:** ModSecurity (SpiderLabs)
 
+### Screenshot
+
+![Zenmap](ZenMap.png)
 ---
 
 ## 4.1.6 DNSRecon
@@ -115,6 +130,9 @@ nslookup turns a domain name into its real IP address (192.232.216.135).
 - SRV Records: cPanel autodiscover
 - Bind Version: 9.16.23
 
+### Screenshot
+
+![Zenmap](ZenMap.png)
 ---
 
 # 4.3 theHarvester Footprinting
@@ -131,6 +149,9 @@ theHarvester was used to collect information about `microsoft.com` from public s
 | Subdomain | 8 |
 | IPs | 0 |
 
+### Screenshot
+
+![Zenmap](ZenMap.png)
 ---
 
 ## Task 2: All Sources
@@ -145,6 +166,9 @@ theHarvester was used to collect information about `microsoft.com` from public s
 | ASNs | 8 |
 | Interesting URLs | 4 |
 
+### Screenshot
+
+![Zenmap](ZenMap.png)
 ---
 
 # 4.4 Zenmap Network Scanning
@@ -167,6 +191,9 @@ Mac terminal was used to identify the local network configuration.
 
 `Ping Scan`
 
+### Screenshot
+
+![Zenmap](ZenMap.png)
 ---
 
 ## Findings
@@ -175,16 +202,7 @@ Mac terminal was used to identify the local network configuration.
 |--------|-------|
 | Live hosts count | 9 |
 | Total IPs scanned | 256 |
-| Scan time | 6.74 |
-
-### Live Hosts
-
-| No. | IP Address | Device |
-|-----|------------|--------|
-| 1 | 192.198.xxx.x | Router/Gateway |
-| 2 | 192.198.xxx.xx | My PC |
-| 3 | 192.198.xxx.xx | Other device |
-| 4 | 192.198.xxx.xx | Other device |
+| Scan time | 4.97 |
 
 ---
 
